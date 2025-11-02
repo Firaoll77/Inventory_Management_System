@@ -15,6 +15,7 @@
     
     
 ### For Environment Variable Create
+copy the .env.example content to newly created .env file
  
     cp .env.example .env
  
